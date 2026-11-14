@@ -1,0 +1,10 @@
+{
+  "name": "minimal-fsm",
+  "version": "0.1.0",
+  "description": "A small, zero-dependency finite state machine for TypeScript.",
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./index.ts"
+  }
+}
